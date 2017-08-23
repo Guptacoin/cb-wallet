@@ -22,17 +22,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LTEX-DEV/cb-wallet.git"
+    "url": "https://github.com/Guptacoin/cb-wallet.git"
   },
   "author": "Wei Lu <luwei.here@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LTEX-DEV/cb-wallet/issues"
+    "url": "https://github.com/Guptacoin/cb-wallet/issues"
   },
   "browserify": {
     "transform": [
       "envify"
     ]
   },
-  "homepage": "https://github.com/LTEX-DEV/cb-wallet"
+  "homepage": "https://github.com/Guptacoin/cb-wallet"
 }
